@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef} from 'react'
 import { FaSlideshare } from 'react-icons/fa'
-import styled, { css } from 'styled-components/macro'
+import styled, { css } from 'styled-components'
 import { SliderData } from '../data/SliderData'
 import {IoArrowForward, IoArrowBack} from 'react-icons/io5'
 import Aos from 'aos'
